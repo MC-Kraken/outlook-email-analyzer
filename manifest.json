@@ -4,7 +4,7 @@
     "manifestVersion": "devPreview",
     "version": "1.0.0",
     "name": {
-        "short": "Integrate Email Analyzer",
+        "short": "Outlook Email Analyzer",
         "full": "Contoso Task Pane Add-in"
     },
     "description": {
@@ -19,7 +19,7 @@
     },
     "icons": {
         "outline": "assets/outline.png",
-        "color": "assets/color.png"
+        "color": "assets/mail-analyzer-logo.png"
     },
     "accentColor": "#230201",
     "localizationInfo": {

@@ -78,3 +78,11 @@
 b {
     font-weight: bold;
 }
+
+pre {
+    width: 200px
+}
+
+.results {
+    margin-right: auto;
+}
